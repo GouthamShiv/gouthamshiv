@@ -3,8 +3,8 @@
 </a>
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/gouthamshiv">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/?username=gouthamshiv&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=4788ff&icon_color=88ff47&text_color=FFBF47&bg_color=151515" alt="Goutham GitHub stats"/>
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamshiv&hide_langs_below=5&layout=compact&count_private=true&title_color=4788ff&icon_color=88ff47&text_color=FFBF47&bg_color=151515" alt="Goutham language stats"/>
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/?username=gouthamshiv&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=4788ff&icon_color=88ff47&text_color=FFBF47&bg_color=151515" alt="Goutham GitHub stats"/>
+    <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamshiv&hide_langs_below=5&layout=compact&count_private=true&title_color=4788ff&icon_color=88ff47&text_color=FFBF47&bg_color=151515" alt="Goutham language stats"/>
   </a>
 </div>
 <div align="center">
@@ -83,7 +83,7 @@
   <hr>
   <img src="https://img.shields.io/badge/Mac_Mini_2018-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/M1_MacBook_Pro_2020-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white">
+  <img src="https://img.shields.io/badge/MAC_OS-000000?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846">
   <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420">
 </div>
