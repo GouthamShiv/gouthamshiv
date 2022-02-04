@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=udemy&logoColor=A435F0">
   <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000">
   <br><br>
-  <h4>⛓ hardware & OS that I work with ⛓</h4>
+  <h4>⛓ Hardware & OS that I work with ⛓</h4>
   <hr>
   <img src="https://img.shields.io/badge/Intel_NUC-000000?style=for-the-badge&logo=intel&logoColor=0071C5">
   <img src="https://img.shields.io/badge/Mac_Mini_2018-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -88,4 +88,5 @@
   <img src="https://img.shields.io/badge/MAC_OS-000000?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=A22846">
   <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=E95420">
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6">
 </div>
