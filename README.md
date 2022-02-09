@@ -1,5 +1,5 @@
 <a href="https://goutham-shivanna.com">
-  <img src="https://user-images.githubusercontent.com/33145049/141964120-9ba8ad35-f1c1-4863-a64f-d3e93598c6b7.png" alt="Profile" width="100%">
+  <img src="./profile-v1-dark.png" alt="Profile" width="100%">
 </a>
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/gouthamshiv">
