@@ -8,9 +8,9 @@
   </a>
 </div>
 <div align="center">
-  <br><br>
-  <h4>⛓ Technologies & Frameworks that I've braced ⛓</h4>
   <hr>
+  <h4>⛓ Technologies & Frameworks that I've braced ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC">
-  <br><br>
-  <h4>⛓ DEV Tools & Libraries that I frequently use ⛓</h4>
   <hr>
+  <h4>⛓ DEV Tools & Libraries that I frequently use ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833">
   <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36">
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
@@ -45,18 +45,18 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=8DD6F9">
   <img src="https://img.shields.io/badge/Yarn-000000?style=for-the-badge&logo=yarn&logoColor=2C8EBB">
-  <br><br>
-  <h4>⛓ DevOps & Deployment methodologies I'm aware ⛓</h4>
   <hr>
+  <h4>⛓ DevOps & Deployment methodologies I'm aware ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/Bamboo-000000?style=for-the-badge&logo=bamboo&logoColor=0052CC">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939">
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
   <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=009639">
   <img src="https://img.shields.io/badge/Portainer-000000?style=for-the-badge&logo=portainer&logoColor=13BEF9">
-  <br><br>
-  <h4>⛓ Cloud Services that I've adapted ⛓</h4>
   <hr>
+  <h4>⛓ Cloud Services that I've adapted ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=0052CC">
   <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020">
@@ -66,9 +66,9 @@
   <img src="https://img.shields.io/badge/Let's_Encrypt-000000?style=for-the-badge&logo=letsencrypt&logoColor=003A70">
   <img src="https://img.shields.io/badge/Linode-000000?style=for-the-badge&logo=linode&logoColor=00A95C">
   <img src="https://img.shields.io/badge/namecheap-000000?style=for-the-badge&logo=namecheap&logoColor=DE3723">
-  <br><br>
-  <h4>⛓ WebSites that I usually peep at ⛓</h4>
   <hr>
+  <h4>⛓ WebSites that I usually peep at ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/Ask_Ubuntu-000000?style=for-the-badge&logo=askubuntu&logoColor=DC461D">
   <img src="https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00EA64">
@@ -79,9 +79,9 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=F58025">
   <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=udemy&logoColor=A435F0">
   <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000">
-  <br><br>
-  <h4>⛓ Hardware & OS that I work with ⛓</h4>
   <hr>
+  <h4>⛓ Hardware & OS that I work with ⛓</h4>
+  <br><br>
   <img src="https://img.shields.io/badge/Intel_NUC-000000?style=for-the-badge&logo=intel&logoColor=0071C5">
   <img src="https://img.shields.io/badge/Mac_Mini_2018-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img src="https://img.shields.io/badge/M1_MacBook_Pro_2020-000000?style=for-the-badge&logo=apple&logoColor=white">
