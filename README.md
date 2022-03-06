@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Bamboo-000000?style=for-the-badge&logo=bamboo&logoColor=0052CC">
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939">
+  <img src="https://img.shields.io/badge/JFrog-000000?style=for-the-badge&logo=jfrog&logoColor=41BF47">
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
   <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=nginx&logoColor=009639">
   <img src="https://img.shields.io/badge/Portainer-000000?style=for-the-badge&logo=portainer&logoColor=13BEF9">
@@ -66,6 +67,7 @@
   <img src="https://img.shields.io/badge/Let's_Encrypt-000000?style=for-the-badge&logo=letsencrypt&logoColor=003A70">
   <img src="https://img.shields.io/badge/Linode-000000?style=for-the-badge&logo=linode&logoColor=00A95C">
   <img src="https://img.shields.io/badge/namecheap-000000?style=for-the-badge&logo=namecheap&logoColor=DE3723">
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFFFFF">
   <hr>
   <h4>⛓ WebSites that I usually peep at ⛓</h4>
   <br><br>
