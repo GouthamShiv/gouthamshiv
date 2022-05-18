@@ -31,6 +31,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833">
   <img src="https://img.shields.io/badge/Apache_Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36">
+  <img src="https://img.shields.io/badge/Auth0-000000?style=for-the-badge&logo=auth0&logoColor=EB5424">
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3">
   <img src="https://img.shields.io/badge/Eclipse_IDE-000000?style=for-the-badge&logo=eclipseide&logoColor=2C2255">
   <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=4B32C3">
