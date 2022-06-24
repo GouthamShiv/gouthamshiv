@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/Let's_Encrypt-000000?style=for-the-badge&logo=letsencrypt&logoColor=003A70">
   <img src="https://img.shields.io/badge/Linode-000000?style=for-the-badge&logo=linode&logoColor=00A95C">
   <img src="https://img.shields.io/badge/namecheap-000000?style=for-the-badge&logo=namecheap&logoColor=DE3723">
+  <img src="https://img.shields.io/badge/snyk-000000?style=for-the-badge&logo=snyk&logoColor=4C4A73">
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFFFFF">
   <hr>
   <h4>⛓ WebSites that I usually peep at ⛓</h4>
