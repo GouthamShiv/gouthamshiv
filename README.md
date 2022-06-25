@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=0052CC">
   <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=F38020">
+  <img src="https://img.shields.io/badge/Digital_Ocean-000000?style=for-the-badge&logo=digitalocean&logoColor=0080FF">
   <img src="https://img.shields.io/badge/Docker_HUB-000000?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00">
