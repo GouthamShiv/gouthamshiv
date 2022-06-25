@@ -72,7 +72,10 @@
   <img src="https://img.shields.io/badge/snyk-000000?style=for-the-badge&logo=snyk&logoColor=4C4A73">
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=FFFFFF">
   <hr>
-  <h4>⛓ WebSites that I usually peep at ⛓</h4>
+  <h4>⛓ WebSites that I refer to ⛓</h4>
+  <br>Usually starts with<br>
+  <img src="https://img.shields.io/badge/Google-000000?style=for-the-badge&logo=google&logoColor=4285F4">
+  <br>And land on one of these
   <br><br>
   <img src="https://img.shields.io/badge/Ask_Ubuntu-000000?style=for-the-badge&logo=askubuntu&logoColor=DC461D">
   <img src="https://img.shields.io/badge/freeCodeCamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=FFFFFF">
