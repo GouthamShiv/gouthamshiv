@@ -1,5 +1,5 @@
 <a href="https://goutham-shivanna.com">
-  <img src="./profile-v1-github-bg.png" alt="Profile" width="100%">
+  <img src="./profile-v1-20220910.png" alt="Profile" width="100%">
 </a>
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/gouthamshiv">
