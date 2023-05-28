@@ -27,6 +27,25 @@
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC">
   <hr>
+  <h4>⛓ Learnings from my MSc in AI course ⛓</h4>
+  <br><br>
+  <img src="https://img.shields.io/badge/Apache_Spark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C">
+  <img src="https://img.shields.io/badge/arXiv-000000?style=for-the-badge&logo=arxiv&logoColor=B31B1B">
+  <img src="https://img.shields.io/badge/elsevier-000000?style=for-the-badge&logo=elsevier&logoColor=FF6C00">
+  <img src="https://img.shields.io/badge/google_scholar-000000?style=for-the-badge&logo=googlescholar&logoColor=4285F4">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-000000?style=for-the-badge&logoColor=FF9E0F">
+  <img src="https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF">
+  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=D00000">
+  <img src="https://img.shields.io/badge/Mendeley-000000?style=for-the-badge&logo=mendeley&logoColor=9D1620">
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243">
+  <img src="https://img.shields.io/badge/overleaf-000000?style=for-the-badge&logo=overleaf&logoColor=47A141">
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458">
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+  <img src="https://img.shields.io/badge/ResearchGate-000000?style=for-the-badge&logo=researchgate&logoColor=00CCBB">
+  <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+  <hr>
   <h4>⛓ DEV Tools & Libraries that I frequently use ⛓</h4>
   <br><br>
   <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=44A833">
@@ -65,7 +84,9 @@
   <img src="https://img.shields.io/badge/Digital_Ocean-000000?style=for-the-badge&logo=digitalocean&logoColor=0080FF">
   <img src="https://img.shields.io/badge/Docker_HUB-000000?style=for-the-badge&logo=docker&logoColor=2496ED">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
   <img src="https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9AB00">
+  <img src="https://img.shields.io/badge/Lambda_Labs-000000?style=for-the-badge&logo=awslambda&logoColor=7935D2">
   <img src="https://img.shields.io/badge/Let's_Encrypt-000000?style=for-the-badge&logo=letsencrypt&logoColor=003A70">
   <img src="https://img.shields.io/badge/Linode-000000?style=for-the-badge&logo=linode&logoColor=00A95C">
   <img src="https://img.shields.io/badge/namecheap-000000?style=for-the-badge&logo=namecheap&logoColor=DE3723">
